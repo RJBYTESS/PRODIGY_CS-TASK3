@@ -9,7 +9,8 @@ numbers, and special characters. It provides feedback to the user on the passwor
 git clone https://github.com/RJBYTES/PRODIGY_CS-TASK3.git
 
 # Navigate to the Directory:
-cd password-strength
+cd PRODIGY_CS-TASK3
+
 
 # Run the Script:
-python3 RatedPass.py
+python3 pass-strength.py
