@@ -6,7 +6,7 @@ numbers, and special characters. It provides feedback to the user on the passwor
 # Usage:
 
 # Clone the Repository:
-git clone https://github.com/RJBYTES/RatedPass.git
+git clone https://github.com/RJBYTES/PRODIGY_CS-TASK3.git
 
 # Navigate to the Directory:
 cd password-strength
